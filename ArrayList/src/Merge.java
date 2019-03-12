@@ -1,8 +1,0 @@
-import java.util.ArrayList;
-public class Merge {
-
-	public static void main(String[] args) {
-		
-	}
-
-}
